@@ -1,7 +1,7 @@
 # IUT-AlvaAFaim
 Jeu de type Puzzle game. [EN COURS]
 
-Incarner Alva et essayer de préparer une recette en faisant le moins de dépense possible.
+Incarner Alva et essayer de préparer une recette en essayant de dépenser le moins possible.
 
 Fonctionnalités :
   - Génération aléatoire de map
