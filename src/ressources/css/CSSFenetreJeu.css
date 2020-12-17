@@ -1,0 +1,21 @@
+/* 
+    Created on : 11 nov. 2020, 16:14:10
+    Author     : antho
+*/
+
+#background
+{
+    -fx-background-images: url("../../../images/map/background.png");
+}
+
+.scroll-pane{
+   -fx-background-color:transparent;
+}
+
+scroll-pane > .viewport { 
+   -fx-background-color: transparent;
+}
+
+.scroll-pane .viewport {
+       -fx-background-color: transparent;
+}

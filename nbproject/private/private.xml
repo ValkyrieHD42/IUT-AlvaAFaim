@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Martin/Desktop/Projet%20Tut/AlvaAFaim/src/IHM/packageFenetre/FenetreMenu/FMenu.java</file>
+            <file>file:/C:/Users/Martin/Desktop/Projet%20Tut/AlvaAFaim/src/metier/PackageRecette/FabriqueRecette.java</file>
+            <file>file:/C:/Users/Martin/Desktop/Projet%20Tut/AlvaAFaim/src/IHM/packageFenetre/Fenetre.java</file>
+            <file>file:/C:/Users/Martin/Desktop/Projet%20Tut/AlvaAFaim/src/controleurs/controleurs/Controleur.java</file>
+            <file>file:/C:/Users/Martin/Desktop/Projet%20Tut/AlvaAFaim/src/metier/PackageJeu/Partie.java</file>
+            <file>file:/C:/Users/Martin/Desktop/Projet%20Tut/AlvaAFaim/src/IHM/packageFenetre/FenetreMenu/FenetreStart/FStart.java</file>
+            <file>file:/C:/Users/Martin/Desktop/Projet%20Tut/AlvaAFaim/src/controleurs/observeurs/ObservateurDeplacementJoueur.java</file>
+            <file>file:/C:/Users/Martin/Desktop/Projet%20Tut/AlvaAFaim/src/IHM/packageFenetre/FenetreJeu/FJeu.java</file>
+            <file>file:/C:/Users/Martin/Desktop/Projet%20Tut/AlvaAFaim/src/controleurs/observeurs/ObservateurIngredientInventaire.java</file>
+            <file>file:/C:/Users/Martin/Desktop/Projet%20Tut/AlvaAFaim/src/IHM/packageFenetre/FenetreJeu/ElementInterface/IngredientsView.java</file>
+            <file>file:/C:/Users/Martin/Desktop/Projet%20Tut/AlvaAFaim/src/IHM/packageFenetre/FenetreJeu/MagasinPopView.java</file>
+            <file>file:/C:/Users/Martin/Desktop/Projet%20Tut/AlvaAFaim/src/IHM/packageFenetre/FenetreJeu/JoueurView.java</file>
+            <file>file:/C:/Users/Martin/Desktop/Projet%20Tut/AlvaAFaim/src/controleurs/observeurs/ObservateurCoutDeplacement.java</file>
+            <file>file:/C:/Users/Martin/Desktop/Projet%20Tut/AlvaAFaim/src/ihm/ManagerSprite.java</file>
+            <file>file:/C:/Users/Martin/Desktop/Projet%20Tut/AlvaAFaim/src/controleurs/controleurs/ControleurDeplacementJoueur.java</file>
+            <file>file:/C:/Users/Martin/Desktop/Projet%20Tut/AlvaAFaim/src/controleurs/observeurs/ObservateurIngredientMagasin.java</file>
+            <file>file:/C:/Users/Martin/Desktop/Projet%20Tut/AlvaAFaim/src/ihm/EnumINTERFACE.java</file>
+            <file>file:/C:/Users/Martin/Desktop/Projet%20Tut/AlvaAFaim/src/metier/PackageRecette/EnumRECETTES.java</file>
+            <file>file:/C:/Users/Martin/Desktop/Projet%20Tut/AlvaAFaim/src/ihm/EnumSPRITE.java</file>
+            <file>file:/C:/Users/Martin/Desktop/Projet%20Tut/AlvaAFaim/src/ressources/css/CSSFenetreStart.css</file>
+            <file>file:/C:/Users/Martin/Desktop/Projet%20Tut/AlvaAFaim/src/metier/PackageRecette/Recettes.java</file>
+        </group>
+    </open-files>
+</project-private>

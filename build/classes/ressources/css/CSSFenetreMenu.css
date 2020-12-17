@@ -1,0 +1,61 @@
+/* 
+    Author     : antho
+*/
+
+#root
+{
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-image: url("../../../ressources/images/Menu_principal/menu_background.png");
+}
+
+#PlayButton
+{
+    -fx-image: url("../../../ressources/images/Menu_principal/continue.png");
+}
+
+#PlayButton:hover
+{
+    -fx-image: url("../../../ressources/images/Menu_principal/continue_hover.png");
+}
+
+#NewGame
+{
+    -fx-image: url("../../../ressources/images/Menu_principal/newgame.png");
+}
+
+#NewGame:hover
+{
+    -fx-image: url("../../../ressources/images/Menu_principal/newgame_hover.png");
+}
+
+#Option
+{
+    -fx-image: url("../../../ressources/images/Menu_principal/option.png");
+}
+
+#Option:hover
+{
+    -fx-image: url("../../../ressources/images/Menu_principal/option_hover.png");
+}
+
+#Quit
+{
+    -fx-image: url("../../../ressources/images/Menu_principal/quit.png");
+}
+
+#Quit:hover
+{
+    -fx-image: url("../../../ressources/images/Menu_principal/quit_hover.png");
+}
+
+#B_NouvellePartie
+{
+    -fx-image: url("../../../ressources/images/Menu_principal/b_charger.png");
+}
+
+#B_NouvellePartie:hover
+{
+    -fx-translate-x: 10;
+    
+}
