@@ -1,5 +1,5 @@
 # IUT-AlvaAFaim
-Jeu de type Puzzle game. [EN COURS]
+Jeu de type Puzzle game.
 
 Incarner Alva et essayer de préparer une recette en essayant de dépenser le moins possible.
 
